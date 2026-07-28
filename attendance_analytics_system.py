@@ -37,7 +37,7 @@ while True:
         option = input("Choose: ")
 
         if option == "1":
-            student_id = input("Student ID: ")
+            student_id = input("Student ID: ").upper()
             name = input("Name: ")
             date = input("Date (DD-MM-YYYY): ")
             status = input("Status (Present/Absent): ").capitalize()
