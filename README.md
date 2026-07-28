@@ -39,4 +39,4 @@ S002,Priya,01-07-2026,Absent
 
 ## Author
 
-Charan Aade | Python Developer
+Charan Aade | Python & Data Analysis Developer 
