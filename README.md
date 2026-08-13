@@ -126,10 +126,10 @@ This project was manually tested end-to-end, covering:
 
 ## 👤 Author
 
-**Charan**
-Self-taught Python & Data Analysis Developer | Building real-world projects on the path to AI/ML freelancing
+**Charan Aade | Python & Data Analysis Developer**
 
 🔗 [GitHub](https://github.com/Charan-Code600)
+
 
 
 
